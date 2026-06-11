@@ -56,5 +56,5 @@ Am a student at IMC Krems, currently doing my bachelor's in Informatics. I also 
 ![Hootsuite](https://img.shields.io/badge/-Hootsuite-143059?style=flat&logo=hootsuite&logoColor=white)
 ![Human Design](https://img.shields.io/badge/-Human_Design-8A2BE2?style=flat)
 
-### 📚 Economic & Planning
+### Economic & Planning
 ![Economic Business Planning](https://img.shields.io/badge/-Economic_Planning-2E8B57?style=flat)
