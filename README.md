@@ -1,4 +1,4 @@
-# Hello am Jakub 
+# Hello I am Jakub 
 Am a student at IMC Krems, currently doing my bachelor's in Informatics. I also work for a company called Sheidt und Bachmann, where I specialise in DevOps, Cloud computing, Artificial Intelligence, and many other skills you can find below.
 
 ## IT Skills
